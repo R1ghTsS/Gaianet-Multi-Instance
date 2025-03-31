@@ -199,6 +199,17 @@ The script will:
 
 ---
 
+### 🗑️ Delete All Nodes (⚠️ DANGEROUS)
+
+This will **permanently delete** all GaiaNet node directories and their info logs:
+
+    rm -rf ~/gaia-node-*
+    rm -rf ~/gaia-node-info
+
+**⚠️ WARNING:** This action cannot be undone.
+
+---
+
 ## ℹ️ Additional Information
 
 - **Instance Numbering:**  
@@ -223,3 +234,4 @@ The script will:
 ---
 
 Happy Node Running 🚀
+
